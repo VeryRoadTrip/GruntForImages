@@ -1,0 +1,8 @@
+/css
+/images/*
+/images_h/*
+/images_src/*
+/images_src_h/*
+/node_modules
+index.html
+package-lock.json
